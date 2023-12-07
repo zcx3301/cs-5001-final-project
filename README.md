@@ -180,8 +180,8 @@ Operationa Video: Watch the YouTube video for an intuitive operational demonstra
 Sample Outputs: Examine the sample outputs to understand the expected results during project runtime.    
 ## Testing
 How did you test your code? What did you do to make sure your code was correct? If you wrote unit tests, you can link to them here. If you did run tests, make sure you document them as text files, and include them in your submission.  
-[unit tests](unit tests.py)  
-[integration tests](path)
+[unit tests](path)  
+[integration tests](integration tests.py)
 > _Make it easy for us to know you *ran the project* and *tested the project* before you submitted this report!_
 
 
