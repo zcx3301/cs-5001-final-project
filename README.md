@@ -80,7 +80,7 @@ Following these steps, you should be able to run this personal finance assistant
 
 ## Code Review
 Go over key aspects of code in this section. Both link to the file, include snippets in this report (make sure to use the [coding blocks](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)).  Grading wise, we are looking for that you understand your code and what you did.  
-[code](url :www.baidu.com)  
+  
 1. Transaction class  
 The `Transaction` class is the core of the project, representing a single financial transaction. This class includes basic attributes (such as date, description, type, and amount) and methods to handle this data.
 ```python
@@ -167,7 +167,7 @@ To ensure users can smoothly run and comprehend this personal finance assistant 
 1. Detailed README File: Within the project repository, I've provided a comprehensive README file containing an overview of the project, installation guides, usage instructions, and feature descriptions. This file serves as the primary guide for users when initially encountering the project, detailing how to set up and run it.
 2. Code Comments: Throughout the project code, I've added thorough comments to explain the workings of key functions and code blocks. These comments are intended to aid in understanding the internal logic of the project, especially for users not familiar with Python or financial applications.
 3. Sample Outputs: In the documentation, I've included text output examples from when the project runs. These examples help users anticipate what they should see when using the project and serve as validation for correct operations.
-4. Operational Video: I've created a brief video demonstrating how to run and utilize various features of the project, which has been uploaded to YouTube. The link to this video is provided in the README file. This visual demonstration is particularly helpful for understanding the practical operations of the project.
+4. Operational Video: I've created a brief video demonstrating how to run and utilize various features of the project, which has been uploaded to YouTube. The link to this video is provided in the README file. This visual demonstration is particularly helpful for understanding the practical operations of the project.  Video link: [code](url :https://www.youtube.com/watch?v=OC1KK_1DRlA)
 
 When exploring my project repository, I recommend focusing on the following:
 
@@ -175,13 +175,13 @@ README File: Begin by reviewing it, as it provides fundamental information and g
 
 Commented Code: Browse through the code files to understand the project's structure and logic.  
 
-Demonstration Video: Watch the YouTube video for an intuitive operational demonstration.  
+Operationa Video: Watch the YouTube video for an intuitive operational demonstration.  [code](url :https://www.youtube.com/watch?v=OC1KK_1DRlA)
 
 Sample Outputs: Examine the sample outputs to understand the expected results during project runtime.    
 ## Testing
 How did you test your code? What did you do to make sure your code was correct? If you wrote unit tests, you can link to them here. If you did run tests, make sure you document them as text files, and include them in your submission.  
-[单元测试](path)  
-[集成测试](path)
+[unit tests](path)  
+[integration tests](path)
 > _Make it easy for us to know you *ran the project* and *tested the project* before you submitted this report!_
 
 
