@@ -1,0 +1,65 @@
+Personal Finance Assistant
+1. Add a new transaction
+2. Edit a transaction record
+3. View financial report
+4. View income and expenses in a specific date range
+5. Exit
+Select an option: 3
+
+Financial report:
+Total income: 30000.00, Total expense: 0.00, Net savings: 30000.00
+
+Detailed transaction records:
+Date: 2023-12-04, Description: salary, Type: Income, Amount: 30000.00
+
+Personal Finance Assistant
+1. Add a new transaction
+2. Edit a transaction record
+3. View financial report
+4. View income and expenses in a specific date range
+5. Exit
+Select an option: 1
+Enter the transaction date (format: YYYY-MM-DD): 2023-12-05
+Enter the transaction description: fun
+Enter the transaction type (Income/Expense): Expense
+Enter the amount: 200
+Transaction record added.
+
+Personal Finance Assistant
+1. Add a new transaction
+2. Edit a transaction record
+3. View financial report
+4. View income and expenses in a specific date range
+5. Exit
+Select an option: 2
+Edit transaction record
+Enter the date of the transaction to edit (format: YYYY-MM-DD): 2023-12-05
+1. 2023-12-05,fun,Expense,200.0
+Select the transaction number to edit: 1
+New date [2023-12-05]: 2023-12-05
+New description [fun]: fun
+New type (Income/Expense) [Expense]: Expense
+New amount [200.0]: 280
+Transaction record updated.
+
+Personal Finance Assistant
+1. Add a new transaction
+2. Edit a transaction record
+3. View financial report
+4. View income and expenses in a specific date range
+5. Exit
+Select an option: 4
+Enter the start date (format: YYYY-MM-DD): 2023-12-01
+Enter the end date (format: YYYY-MM-DD): 2023-12-05
+
+Financial report from 2023-12-01 to 2023-12-05:
+Total income: 30000.00, Total expense: 280.00, Net savings: 29720.00
+
+Personal Finance Assistant
+1. Add a new transaction
+2. Edit a transaction record
+3. View financial report
+4. View income and expenses in a specific date range
+5. Exit
+Select an option: 5
+Thank you for using the Personal Finance Assistant. Goodbye!
